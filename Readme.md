@@ -8,7 +8,6 @@ This script requires the following Python libraries:
 
 -   pandas
 -   numpy
--   time
 
 ## Usage
 
